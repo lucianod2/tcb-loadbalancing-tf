@@ -1,0 +1,5 @@
+# Terraform test
+.terraform/
+.terraform*
+terraform*
+mytfplan
